@@ -9,11 +9,12 @@ This Python script allows you to perform various website analysis and reconnaiss
 
 ## Install
 ```
+sudo apt-get install wget dirb gobuster curl lynx
 git clone https://github.com/0KairWne0/Weeb-Recon.git
 ```
 
 ## Usage
-1. Install the requirements.txt `pip install -r requirements.txt`
+1. Install the requirements `sudo apt-get install wget dirb gobuster curl lynx`
 2. Run the script using `python3 WeebRecon.py`.
 3. Follow the prompts and provide the necessary information.
 4. The script will execute the selected operations based on your preferences.
