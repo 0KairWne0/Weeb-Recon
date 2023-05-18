@@ -1,0 +1,6 @@
+wget
+dirb
+gobuster
+curl
+whatweb
+lynx
