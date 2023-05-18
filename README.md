@@ -7,6 +7,11 @@ This Python script allows you to perform various website analysis and reconnaiss
 - Python 3.x
 - Required tools installed: `wget`, `dirb`, `gobuster`, `curl`, `whatweb`, `lynx`
 
+## Install
+```
+git clone https://github.com/0KairWne0/Weeb-Recon.git
+```
+
 ## Usage
 1. Install the requirements.txt `pip install -r requirements.txt`
 2. Run the script using `python3 WeebRecon.py`.
