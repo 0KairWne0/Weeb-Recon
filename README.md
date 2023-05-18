@@ -11,7 +11,7 @@ This Python script allows you to perform various website analysis and reconnaiss
 
 ## Usage
 1. Install the requirements.txt `pip install -r requirements.txt`
-2. Run the script using `python script.py`.
+2. Run the script using `python3 WeebRecon.py`.
 3. Follow the prompts and provide the necessary information.
 4. The script will execute the selected operations based on your preferences.
 
