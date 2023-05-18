@@ -1,5 +1,3 @@
-Certainly! Here's a README file that provides an overview of the code:
-
 # Website Reconnaissance Script
 
 This Python script allows you to perform various website analysis and reconnaissance tasks. It prompts the user for input regarding the website URL, wordlists, user agent, and preferences for different operations.
