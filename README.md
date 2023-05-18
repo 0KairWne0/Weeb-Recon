@@ -10,10 +10,10 @@ This Python script allows you to perform various website analysis and reconnaiss
 - Required tools installed: `wget`, `dirb`, `gobuster`, `curl`, `whatweb`, `lynx`
 
 ## Usage
-
-1. Run the script using `python script.py`.
-2. Follow the prompts and provide the necessary information.
-3. The script will execute the selected operations based on your preferences.
+1. Install the requirements.txt `pip install -r requirements.txt`
+2. Run the script using `python script.py`.
+3. Follow the prompts and provide the necessary information.
+4. The script will execute the selected operations based on your preferences.
 
 ## Functionality
 
